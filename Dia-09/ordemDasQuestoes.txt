@@ -1,0 +1,12 @@
+A ORDEM DAS QUESTÕES E A SEGUINTE
+
+1º PASTA IF/ELSE
+    -exercicio idade
+2º PASTA IF/ELSE
+    -exercicio imc
+3º PASTA FOR
+    -pergunta idade e anos
+4º PASTA FOR 
+    -rh do henrique
+
+O ENUNCIADO DAS QUESTÕES ESTÃO NOS ARQUIVOS .JS!!!
