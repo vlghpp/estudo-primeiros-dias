@@ -1,3 +1,12 @@
+/*
+
+1 - Calculadora
+1.1 - Crie um algoritmo que peça 2 números ao usuário
+1.2 - Utilizando o switchCase dê a opção do usuário escolher qual operação matemática será realizada com esses números
+1.3 - Exiba no console a operação feita e o resultado da conta
+
+*/
+
 let primeiroValor = Number(prompt("Digite um valor: "));//Cria um prompt e guarda a resposta na váriavel
 let segundoValor = Number(prompt("Digite um segundo valor: "));//Cria um prompt e guarda a resposta na váriavel
 
@@ -26,7 +35,7 @@ switch(operacao){
     
     case "divisão":
         console.log(primeiroValor);                     //Nesse case, ele testa a resposta dada por operacao
-        console.log(segundoValor);8                         //caso for "adição" ele dividirá os dois valores
+        console.log(segundoValor);                        //caso for "adição" ele dividirá os dois valores
         console.log(segundoValor);
         console.log(primeiroValor / segundoValor);
         break;
