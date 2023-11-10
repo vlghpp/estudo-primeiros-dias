@@ -1,3 +1,16 @@
+/*
+
+LISTA DE EXERCICIOS --2 Concessionária 
+
+*Não esqueça de testar seu código!
+
+1 - Crie três arrays, um para guardar  os modelos, um para guardar os anos e um para guardar os valores do carro
+2 - Utilizando o WHILE, peça para o usuário cadastrar novos carros(modelo, ano e valor), popule os 3 arrays nas mesmas posições.
+3 - Seu usuário deve definir quando parar de inserir informações. 
+
+*/
+
+
 let modelos = [];
 let anos = [];
 let valores = [];
