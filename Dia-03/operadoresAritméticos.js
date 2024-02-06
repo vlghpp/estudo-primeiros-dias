@@ -8,3 +8,8 @@ let soma = numUm + numDois;//Cria uma váriavel soma, e executa a soma entre as 
 //nesse caso ela não vai aparecer na tela pois não tem um console, ou seja, só foi armazenado o resultado em SOMA
 
 console.log(soma); //Printa no console o resultado da váriavel soma
+
+
+let numfodase = 3.5;
+
+console.log(numfodase)

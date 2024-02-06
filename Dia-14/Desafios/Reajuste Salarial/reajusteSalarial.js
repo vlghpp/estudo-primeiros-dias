@@ -36,7 +36,7 @@ function perguntaNome(){
         if(resposta === "Sim"){
             perguntaNome();
         }else{
-            console.log(`Obrigado, ${nome}, seu salário era de R$${salario}, com uma taxa de aumento de ${taxa} e agora seu salario é de: R$${salarioReajustado}`)
+            console.log(`Olá ${nome}, seu salário era de R$${salario}, com uma taxa de aumento de ${taxa} e agora seu salario é de: R$${salarioReajustado}`)
             console.log("Obrigado por utilizar nosso sistema. :)")
         }
     }

@@ -1,4 +1,6 @@
-/*Comunidade DoDev
+/*
+
+Comunidade DoDev
 
 1 - Crie 2 arrays: um para nomes e um para senhas
 2- Solicite ao seu usuário o que ele deseja fazer: cadastrar, fazer login, excluir um cadastro ou encerrar o programa.
