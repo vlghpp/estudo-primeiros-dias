@@ -8,7 +8,7 @@ function perguntaNome(){
 
 
     var taxa;
-    var salarioReajustado
+    var salarioReajustado;
 
     function calculaSalario(nome, salario){
         if(salario <= 1.500) {
